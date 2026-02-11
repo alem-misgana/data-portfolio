@@ -6,7 +6,7 @@ This project compares the performance of **Games** 🎮 and **Technology** 💻 
 ## 📚 Data Source Disclaimer
 The dataset used in this project is a curated version of the Kickstarter Projects dataset provided by **Dataquest**, originally sourced from Kaggle. While the dataset comes from Dataquest, all research questions, analysis, and conclusions were developed independently.
 
-To comply with usage and copyright guidelines, the raw dataset is **not included**; instead, screenshots of queries and results are provided in the `SQL_Kickstarter` folder.
+To comply with usage and copyright guidelines, the raw dataset is **not included**; instead, screenshots of queries and results are provided.
 
 ---
 
