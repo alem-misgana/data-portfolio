@@ -54,8 +54,8 @@ Games projects show a success rate of **77.35%**, compared to **74.90%** for Tec
 ### 🔸 4. Among projects that meet their funding goals, how many do not succeed due to cancellation, suspension, or other factors?
 
 **Findings:**  
-- 🎮 Games projects: 0.92% of projects reached their goal but were not officially successful  
-- 💻 Technology projects: 3.18% discrepancy between funding goal achievement and final status
+- 🎮 Games projects: 0.92% (78.27 - 77.35) of projects reached their goal but were not officially successful  
+- 💻 Technology projects: 3.26% (78.16 - 74.90) discrepancy between funding goal achievement and final status
 
 **Interpretation:**  
 These differences indicate that a small proportion of projects reach their funding goals but are not ultimately classified as successful. The discrepancy is more pronounced in Technology projects, suggesting that post-funding issues occur more frequently in this category.
